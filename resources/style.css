@@ -1,0 +1,11 @@
+html{
+  text-align: center;
+  background-color: black;
+  font-family: Verdana;
+}
+h1,h2{
+  color: white;
+}
+p, span{
+  color: grey;
+}
